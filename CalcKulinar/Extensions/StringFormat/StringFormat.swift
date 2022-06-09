@@ -8,7 +8,6 @@
 import Foundation
 import UIKit
 
-
 extension UIViewController {
     
     func stringFormat(count: Double, measure: String) -> String {
