@@ -4,7 +4,7 @@ CooksCalculater
 - подсчет и конвертация из одной величины в другую
 
 Использовал:
-- UITableViw
+- UITableView
 - верстка кодом
 - Picker
 - Button
